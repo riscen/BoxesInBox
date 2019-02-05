@@ -1,2 +1,0 @@
-# BoxesInBox
-Created with CodeSandbox

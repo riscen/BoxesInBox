@@ -1,0 +1,45 @@
+.controls-container {
+  background: #e2edff;
+  height: 100%;
+  padding: 2%;
+}
+
+.form-container {
+  margin: auto;
+  text-align: center;
+}
+
+.form-field {
+  display: inline-block;
+  margin: 10px;
+}
+
+.form-field input[type="number"] {
+  margin-left: 5px;
+  width: 40px;
+}
+
+.form-field-submit input {
+  background: blue;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  padding: 5px 10px;
+  width: 75px;
+}
+
+.form-field-submit input:hover {
+  font-weight: bold;
+}
+
+.form-field-submit input:active {
+  border: 1px solid lightblue;
+}
+
+.result-container {
+  font-size: 28px;
+  font-weight: bolder;
+  margin: 5% 0;
+  text-align: center;
+}

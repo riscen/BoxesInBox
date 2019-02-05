@@ -1,0 +1,31 @@
+.app-container {
+  height: 100%;
+  margin: 0;
+  padding: 2% 5%;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.sub-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.left-pane {
+  float: left;
+  height: 80%;
+  width: 30%;
+}
+
+.right-pane {
+  float: left;
+  height: 80%;
+  width: 70%;
+}

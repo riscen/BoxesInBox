@@ -1,0 +1,26 @@
+.grid-container {
+  height: 100%;
+  padding: 0 3%;
+  width: 96%;
+}
+
+.grid-row {
+  position: relative;
+  width: 100%;
+}
+
+.grid-cell {
+  background: #0037ff;
+  border-radius: 5px;
+  color: #fff;
+  display: inline-block;
+  font-weight: bold;
+  height: calc(100% - 10px);
+  margin: 5px;
+  text-align: center;
+}
+
+.grid-cell span {
+  bottom: calc(50% - 12px);
+  position: absolute;
+}
